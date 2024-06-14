@@ -1,0 +1,3 @@
+file handling
+new file created to use ofstream in c++ to use created and opean file;
+append in c++ ios::app 
